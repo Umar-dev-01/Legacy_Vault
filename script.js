@@ -8,7 +8,7 @@
   'use strict';
 
   const CONFIG = {
-    API_URL: '', // e.g. 'https://script.google.com/macros/s/XXXXXXXX/exec'
+API_URL: 'https://mmomkpujdxcqpjetgpye.supabase.co/functions/v1/clever-action',
     CHECK_IN_DAYS: 90,
     REMINDER_DAYS: [15, 1],
     PENDING_EXPIRY_DAYS: 7,
